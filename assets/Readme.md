@@ -11,15 +11,7 @@ This project represents an **interior design company** with a clean and professi
 
 ## 🚀 Live Demo
 
-🔗 [Preview 1](https://preview--quickdash-invoice-forge.lovable.app/)  
-
----
-
-## 📸 Website Preview
-
-> ⚠️ Replace this with a screenshot (`/assets/preview.png`) for GitHub display.  
-
-![Preview Screenshot](assets/preview.png)
+🔗 [Preview 1](https://interno-001.netlify.app/)  
 
 ---
 
